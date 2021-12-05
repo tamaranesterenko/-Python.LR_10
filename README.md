@@ -1,1 +1,1 @@
-# -Python.LR_10
+# Python.LR_10
